@@ -4,6 +4,6 @@
 #include <stdio.h>
 #include "BiTree02.h"
 
-int main(int argc, char **argv) {
-
-}
+//int main(int argc, char **argv) {
+//
+//}

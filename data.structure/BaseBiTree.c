@@ -6,7 +6,7 @@
 #include <stdlib.h>
 
 typedef struct TElemType {
-
+    int value;
 } TElemType;
 
 typedef struct BiTNode {

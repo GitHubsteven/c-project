@@ -3,4 +3,4 @@ project(bi_tree C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(bi_tree main.c data.structure/BiTree02.c data.structure/PointAddr.c data.structure/BiTree02.h data.structure/main.c data.structure/BaseBiTree.c)
+add_executable(bi_tree data.structure/BiTree02.c data.structure/PointAddr.c data.structure/BiTree02.h data.structure/main.c data.structure/BaseBiTree.c algorithm/MaxCombatPower.c)
